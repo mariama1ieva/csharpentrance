@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\bin\Debug\net6.0\p418-meryem.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\bin\Debug\net6.0\p418-meryem.deps.json
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\bin\Debug\net6.0\p418-meryem.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\bin\Debug\net6.0\p418-meryem.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\bin\Debug\net6.0\p418-meryem.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\refint\p418-meryem.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\p418-meryem.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\p418-meryem\p418-meryem\obj\Debug\net6.0\ref\p418-meryem.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p418-meryem/1.0.0": {
+        "runtime": {
+          "p418-meryem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p418-meryem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
